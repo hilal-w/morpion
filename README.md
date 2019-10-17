@@ -10,3 +10,4 @@
 * Si une ligne ou une colonne est remplie des 3 mêmes symboles, le joueur remporte la partie. Le jeu propose de commencer une nouvelle partie.
 * Si 9 coups sont joués sans gagnant, le jeu affiche que la partie est nulle et propose de rejouer.
 # morpion
+# morpion
